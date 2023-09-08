@@ -1,0 +1,116 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+background-color: rgb(47, 45, 45);
+padding: 30px;
+padding-top: 20px;
+}
+
+nav{
+background-color: gray;
+padding: 5px;
+margin-bottom: 20px;
+}
+nav ul li{
+display: inline;
+color: white;
+font-size: 16px;
+padding-right: 5px;
+padding-left: 10px;
+
+
+}
+#container{
+text-align: center;
+margin-left: 20px;
+
+}
+.holiday{
+background-color: rgb(246, 68, 3);
+color: white;
+padding-top: 5px;
+padding-bottom: 8px;
+margin: 10px;
+
+}
+
+.holiday-gift{
+    background-image: url(../images/bg-image.png);
+    background-size: contain;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.holiday-gift p{
+font-size: 15px;
+padding-top: 15px;
+}
+.gift p{
+text-align: start;
+padding-top: 30px;
+padding-bottom: 10px;
+
+}
+
+.image1{
+display: inline;
+width:350px ;
+
+
+}
+
+.vr{
+margin-top: 50px;
+padding-bottom: 0px;
+
+
+
+}
+.img-vr{
+    
+}
+
+.text-1{
+    font-weight: bold;
+    margin-top: 0px;
+    padding-bottom: 15px;
+}
+span{
+    font-size: 14px;
+    color: rgb(8, 115, 187);
+    padding-left: 10px;
+
+}
+
+
+
+.back-link{
+    background-color: rgb(76, 75, 75);
+    color: beige;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 8px;
+
+}
+a{
+    color: white;
+}
+
+footer{
+    background-color: rgb(47, 45, 45);
+    text-align: center;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.end-page{
+padding: 20px;
+padding-top: 30px;
+}
+
+
+
